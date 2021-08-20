@@ -2,10 +2,6 @@ package com.example.algamoney.api.service.exception;
 
 public class PessoaInexistenteOuInativaException extends RuntimeException {
 
-    private static final long serialVersionUID;
-
-    static {
-        serialVersionUID = 1L;
-    }
+	private static final long serialVersionUID = 1L;
 
 }
